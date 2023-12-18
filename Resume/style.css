@@ -1,0 +1,28 @@
+img{
+    border-radius: 50%;
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+li{
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+footer{
+    font-size: 1.3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+background-color: whitesmoke;
+}
+
